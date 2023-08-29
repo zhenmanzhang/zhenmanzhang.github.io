@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 The Postgraduate Research & Practice Innovation Program of Jiangsu Province was approved.
+- *2023.06*: &nbsp;🎉🎉 The Postgraduate Research and Practice Innovation Program of Jiangsu Province was approved.
 - 
 
 # 📝 Publications 
