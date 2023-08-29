@@ -23,11 +23,10 @@ I received the bachelor’s degree from Nanjing University of Information Scienc
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 -->
 
-<!--
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2023.06*: &nbsp;🎉🎉 The Postgraduate Research & Practice Innovation Program of Jiangsu Province was approved.
+- 
 
 # 📝 Publications 
 
@@ -36,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Sle-CNN: a novel convolutional neural network for sleep stage classification](https://link.springer.com/article/10.1007/s00521-023-08598-7)
 
-**Zhenman Zhang**, Yu Xue, Adam Slowik & Ziming Yuan 
+**Zhenman Zhang**, Yu Xue, Adam Slowik and Ziming Yuan 
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
