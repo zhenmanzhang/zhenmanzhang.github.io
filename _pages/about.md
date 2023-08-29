@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I received the B.E. degree from Nanjing University of Information Science and Technology, China, in 2021, where i am currently pursuing a master’s degree. My research interests include Deep Learning and Neural Architecture Search.
 
+<!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+-->
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -28,32 +29,54 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Neural Computing and Applications 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Sle-CNN: a novel convolutional neural network for sleep stage classification](https://link.springer.com/article/10.1007/s00521-023-08598-7)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhenman Zhang**, Yu Xue, Adam Slowik & Ziming Yuan 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A neural architecture search method based on genetic algorithm is developed to automate the construction of network architecture for sleep stage classification. 
 </div>
 </div>
 
-
+<!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022-Now * The Third Prize Scholarship, [The Postgraduate Research & Practice Innovation Program of Jiangsu Province](http://doe.jiangsu.gov.cn/art/2023/6/6/art_58320_10918203.html?eqid=b3e810cc0009c34000000005648b19c3), [First prize for postgraduate mathematical modeling school trials](https://yjs.nuist.edu.cn/info/1064/5683.htm)
+- *2021-2022* The Third Prize Scholarship, [Provincial Third Prize for Mathematical Modeling (Postgraduate students)](https://www.marsbigdata.com/modelcomp/details?id=6532635919).
+- *2020-2021* National Encouragement Scholarship, Excellent Student Cadre.
+- *2019-2020* National Encouragement Scholarship, Excellent Student Cadre.
+- *2016-2019* Provincial First Prize for Mathematical Modeling (College students), National Encouragement Scholarship.
 
+  
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Now    *, Nanjing University of Information Science and Technology.
+- *2019.09 - 2021.06*, Nanjing University of Information Science and Technology.
+- *2016.09 - 2019.06*, Suzhou Vocational University.
 
-# 💬 Invited Talks
+
+# ✣ Teamwork
+- *2023.06* Team leader in the mathematical contest in modeling.
+- *2023.02* Assist the graduate supervisor in writing the application for National Natural Science Foundation.
+- *2022.09* Team leader in the mathematical contest in modeling.
+- *2021.11* Organize freshman activities.
+
+<!--
+# 💬 Invited Talks 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.07 - 2019.08*, [Suzhou Yunrong Information Technology Co., Ltd
+](https://github.com/), China.
+
+# ◑ Extra-curricular Activities
+- Class Psychological commissary
+- Volunteer work
+- Participate in swimming and badminton competitions
+
