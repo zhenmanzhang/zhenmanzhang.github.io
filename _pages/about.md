@@ -73,7 +73,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.07 - 2019.08*, [Suzhou Yunrong Information Technology Co., Ltd
-](https://github.com/), China.
+](http://www.sdnware.com/Home/Index), China.
 
 # ◑ Extra-curricular Activities
 - Class Psychological commissary
