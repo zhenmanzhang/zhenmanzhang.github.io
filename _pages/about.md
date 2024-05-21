@@ -45,20 +45,36 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Electronic Research Archive 2024</div><img src='images/SSENAS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Similarity surrogate-assisted evolutionary neural architecture search with dual encoding strategy](http://www.aimspress.com/article/doi/10.3934/era.2024050)
+
+Yu Xue, **Zhenman Zhang** and Ferrante Neri
+
+<!--
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+
+- We propose SSENAS, a novel surrogate-assisted NAS method, to address the limitations of existing regression- or ranking-based surrogate models in ENAS by employing a dual encoding strategy to enhance accuracy in identifying high-quality architectures within the search space while mitigating the impact of inferior designs, thereby reducing computational costs. 
+</div>
+</div>
+
 <!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
 # 🎖 Honors and Awards
-- *2022-2023(Now)* The Third Prize Scholarship, [The Postgraduate Research & Practice Innovation Program of Jiangsu Province](http://doe.jiangsu.gov.cn/art/2023/6/6/art_58320_10918203.html?eqid=b3e810cc0009c34000000005648b19c3), [First prize for postgraduate mathematical modeling school trials](https://yjs.nuist.edu.cn/info/1064/5683.htm)
-- *2021-2022* The Third Prize Scholarship, [Provincial Third Prize for Mathematical Modeling (Postgraduate students)](https://www.marsbigdata.com/modelcomp/details?id=6532635919).
+- *2023-2024(now)* The Third Prize Scholarship.
+- *2022-2023* The Third Prize Scholarship, [The Postgraduate Research & Practice Innovation Program of Jiangsu Province](https://jyt.jiangsu.gov.cn/art/2023/6/6/art_58320_10918203.html), [Post-graduate Mathematical Contest in Modeling School Trials (First Prize)](https://yjs.nuist.edu.cn/info/1009/3272.htm),[China Post-graduate Mathematical Contest in Modeling (Third Prize)](https://cpipc.acge.org.cn//cw/detail/4/2c9080158aee323f018c0b4b1fdf71ff).
+- *2021-2022* The Third Prize Scholarship, [Provincial Post-graduate Mathematical Contest in Modeling (Third Prize)](https://www.marsbigdata.com/modelcomp/details?id=6532635919).
 - *2020-2021* National Encouragement Scholarship, Excellent Student Cadre.
 - *2019-2020* National Encouragement Scholarship, Excellent Student Cadre.
 - *2016-2019* Provincial First Prize for Mathematical Modeling (College students), National Encouragement Scholarship.
 
   
 # 📖 Educations
-- *2021.09 - 2023(Now)*, Nanjing University of Information Science and Technology.
+- *2021.09 - 2024(Now)*, Nanjing University of Information Science and Technology.
 - *2019.09 - 2021.06*, Nanjing University of Information Science and Technology.
 - *2016.09 - 2019.06*, Suzhou Vocational University.
 
@@ -80,7 +96,7 @@ My research interest includes neural machine translation and computer vision. I 
 ](http://www.sdnware.com/Home/Index), China.
 
 # ◑ Extra-curricular Activities
-- Class Psychological commissary
+- Class psychological commissary
 - Volunteer work
 - Participate in swimming and badminton competitions
 
